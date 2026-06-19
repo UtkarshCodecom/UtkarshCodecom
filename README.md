@@ -116,7 +116,7 @@ Custom automation tools and productivity scripts built using Python.
 
 ## Connect
 
-GitHub: github.com/UtkarshCodecom
+GitHub: https://github.com/UtkarshCodecom
 
 Codeforces: https://codeforces.com/profile/yushkarsh
 
