@@ -1,95 +1,127 @@
-# Hi 👋, I'm Utkarsh Kumar
+# Utkarsh Kumar
 
-### 🚀 Android Developer | 🌐 Full-Stack Web Developer | 🎮 Unity Game Developer
+### Software Developer • Competitive Programmer • JEE Advanced AIR 5611 • INOI Qualifier
 
-Passionate developer who enjoys building mobile apps, web applications, and games. I love solving problems, learning new technologies, and turning ideas into real products.
-
----
-
-## 💫 About Me
-
-* 📱 Building Android applications using Java, Kotlin, Firebase, and modern Android tools
-* 🌐 Developing full-stack web applications
-* 🎮 Creating 2D games with Unity and C#
-* ☁️ Working with Firebase, Cloud Services, and Backend Systems
-* 🏆 Competitive Programmer on Codeforces
-* 📚 Currently preparing for JEE while continuing software development
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Android+Developer;Full-Stack+Web+Developer;Unity+Game+Developer;Competitive+Programmer;Freelance+Developer" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## Professional Summary
+
+I am a 17-year-old developer from India with a strong background in software engineering, competitive programming, and problem solving.
+
+Started programming in Class 7 and have since worked across Android development, full-stack web development, automation systems, game development, cloud services, and freelance software projects.
+
+Alongside development, I qualified for INOI and secured AIR 5611 in JEE Advanced, demonstrating strong analytical and mathematical problem-solving abilities.
+
+---
+
+## Key Achievements
+
+| Achievement             | Details                        |
+| ----------------------- | ------------------------------ |
+| JEE Advanced            | AIR 5611                       |
+| Olympiad                | INOI Qualifier                 |
+| Programming Experience  | Coding since Class 7           |
+| Mobile Development      | Published Android Applications |
+| Freelancing             | Client Projects Delivered      |
+| Competitive Programming | Active Problem Solver          |
+| Game Development        | Unity 2D Development           |
+| Web Development         | MERN Stack Applications        |
+
+---
+
+## Areas of Expertise
+
+| Domain                  | Technologies                        |
+| ----------------------- | ----------------------------------- |
+| Android Development     | Java, Kotlin, Firebase              |
+| Full Stack Development  | MongoDB, Express.js, React, Node.js |
+| Backend Development     | REST APIs, Firebase, Authentication |
+| Game Development        | Unity, C#                           |
+| Competitive Programming | C++, Data Structures & Algorithms   |
+| Automation              | Python Bots & Automation Scripts    |
+| Cloud Services          | Firebase, Cloud Storage             |
+| Version Control         | Git, GitHub                         |
+| UI Development          | React, Next.js, Tailwind CSS        |
+
+---
+
+## Technical Skills
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+C++ • Java • Kotlin • JavaScript • Python • C#
 
-### Mobile Development
+### Frameworks & Technologies
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge)
+React • Next.js • Node.js • Express.js • MongoDB
 
-### Web Development
+Firebase • Android SDK • Unity Engine
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge)
-
-### Game Development
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
+Git • GitHub • REST APIs
 
 ---
 
-## 🚀 Featured Projects
+## GitHub Analytics
 
-### 📱 WallE - Wallpapers & Live Clock
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=UtkarshCodecom&show_icons=true&theme=tokyonight" />
+</p>
 
-Android application featuring wallpapers, customization, and live clock functionality.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshCodecom&theme=tokyonight" />
+</p>
 
-### 🌐 Nexus Security Website
-
-Modern responsive website built for a security services business.
-
-### 🎮 Unity 2D Games
-
-Multiple game development projects using Unity and C#.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshCodecom\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshCodecom\&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshCodecom&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🏆 Competitive Programming
+## Featured Projects
 
-* Codeforces Profile: Add your profile link here
-* Interested in Algorithms, Data Structures, and Problem Solving
+### WallE – Wallpapers & Live Clock - https://play.google.com/store/apps/details?id=com.walle.wallpaper
+
+Android application featuring customizable wallpapers, live clock rendering, Firebase integration, and cloud-based content management.
+
+### Nexus Security Website - https://www.nexussecurity.online/
+
+Modern business website with responsive UI and professional design.
+
+### Unity Platformer Projects (in development)
+
+2D game development projects involving gameplay systems, animation handling, and level design.
+
+### Automation & Python Bots
+
+Custom automation tools and productivity scripts built using Python.
 
 ---
 
-## 📫 Connect With Me
+## Current Focus
 
-* GitHub: https://github.com/UtkarshCodecom
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* Learn DevOps
+* Learn CyberSecurity
+* Advanced Android Development
+* Scalable MERN Applications
+* Competitive Programming
+* System Design
+* AI Assisted Development
+* Game Development
 
 ---
 
-### 💡 Motto
+## Connect
 
-> "Keep Building. Keep Learning. Keep Improving."
+GitHub: github.com/UtkarshCodecom
+
+Codeforces: https://codeforces.com/profile/yushkarsh
+
+Email: yushkarsh@gmail.com
+
+---
+
+*"Building project, learn from it, move to next tech..."*
