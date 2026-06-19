@@ -1,6 +1,6 @@
 # Utkarsh Kumar
 
-### Software Developer • Competitive Programmer • JEE Advanced AIR 5611 • INOI Qualifier
+### Software Developer • Competitive Programmer • JEE AIR 5611 • INOI Qualifier
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Android+Developer;Full-Stack+Web+Developer;Unity+Game+Developer;Competitive+Programmer;Freelance+Developer" />
@@ -10,11 +10,11 @@
 
 ## Professional Summary
 
-I am a 17-year-old developer from India with a strong background in software engineering, competitive programming, and problem solving.
+I am a 18-year-old developer from India with a strong background in software engineering, competitive programming, and problem solving.
 
-Started programming in Class 7 and have since worked across Android development, full-stack web development, automation systems, game development, cloud services, and freelance software projects.
+Started programming in Class 7 and have since worked across Android development, full-stack web development, automation systems, game development, databases, linux, cloud services, and freelance software projects.
 
-Alongside development, I qualified for INOI and secured AIR 5611 in JEE Advanced, demonstrating strong analytical and mathematical problem-solving abilities.
+Alongside development, I qualified for INOI and secured AIR 5611 in JEE, demonstrating strong analytical and mathematical problem-solving abilities.
 
 ---
 
@@ -22,7 +22,7 @@ Alongside development, I qualified for INOI and secured AIR 5611 in JEE Advanced
 
 | Achievement             | Details                        |
 | ----------------------- | ------------------------------ |
-| JEE Advanced            | AIR 5611                       |
+| JEE                     | AIR 5611                       |
 | Olympiad                | INOI Qualifier                 |
 | Programming Experience  | Coding since Class 7           |
 | Mobile Development      | Published Android Applications |
