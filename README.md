@@ -72,7 +72,7 @@ Git • GitHub • REST APIs
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UtkarshCodecom&theme=tokyonight" />
+<img src="./metrics.plugin.lines.svg" alt="Lines of code committed" />
 </p>
 
 <p align="center">
