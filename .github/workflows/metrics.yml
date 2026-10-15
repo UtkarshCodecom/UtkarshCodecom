@@ -30,6 +30,8 @@ jobs:
           # Fail fast instead of retrying 3x with 5-minute waits (that's why it took ~18 min)
           retries: 1
 
-          # Optional: exclude repos full of generated/vendored code so they don't inflate the count
-          # plugin_lines_skipped: |
-          #   some-repo-name
+          # Work around upstream null-author contributor stats crash by scoping to this repository.
+          plugin_lines_skipped: |
+            @use.patterns
+            */*
+            +UtkarshCodecom/UtkarshCodecom
