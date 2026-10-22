@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="t">
-  <title id="t">Lines of code committed: 1,143,833 added, 393,737 removed</title>
+  <title id="t">Lines of code committed: 1,144,312 added, 394,031 removed</title>
   <style>
     .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
     .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
@@ -13,22 +13,22 @@
     <g transform="translate(25, 68)">
       <circle cx="6" cy="-5" r="4" fill="#3fb950"/>
       <text x="20" class="label">Lines added:</text>
-      <text x="150" class="value" fill="#3fb950">+1,143,833</text>
+      <text x="150" class="value" fill="#3fb950">+1,144,312</text>
     </g>
     <g transform="translate(25, 93)">
       <circle cx="6" cy="-5" r="4" fill="#f85149"/>
       <text x="20" class="label">Lines removed:</text>
-      <text x="150" class="value" fill="#f85149">−393,737</text>
+      <text x="150" class="value" fill="#f85149">−394,031</text>
     </g>
     <g transform="translate(25, 118)">
       <circle cx="6" cy="-5" r="4" fill="#bf91f3"/>
       <text x="20" class="label">Net lines:</text>
-      <text x="150" class="value" fill="#38bdae">750,096</text>
+      <text x="150" class="value" fill="#38bdae">750,281</text>
     </g>
     <g transform="translate(25, 143)">
       <circle cx="6" cy="-5" r="4" fill="#bf91f3"/>
       <text x="20" class="label">Commits:</text>
-      <text x="150" class="value" fill="#38bdae">194</text>
+      <text x="150" class="value" fill="#38bdae">204</text>
     </g>
     <g transform="translate(25, 168)">
       <circle cx="6" cy="-5" r="4" fill="#bf91f3"/>
@@ -40,5 +40,5 @@
     <text y="4" text-anchor="middle" class="big">1.1M</text>
     <text y="24" text-anchor="middle" class="cap">lines written</text>
   </g>
-  <text x="470" y="182" text-anchor="end" class="foot">updated 21 Oct 2026</text>
+  <text x="470" y="182" text-anchor="end" class="foot">updated 22 Oct 2026</text>
 </svg>
