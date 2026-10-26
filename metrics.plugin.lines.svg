@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="t">
-  <title id="t">Lines of code committed: 1,144,391 added, 394,119 removed</title>
+  <title id="t">Lines of code committed: 1,250,861 added, 396,493 removed</title>
   <style>
     .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
     .label { font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
@@ -13,32 +13,32 @@
     <g transform="translate(25, 68)">
       <circle cx="6" cy="-5" r="4" fill="#3fb950"/>
       <text x="20" class="label">Lines added:</text>
-      <text x="150" class="value" fill="#3fb950">+1,144,391</text>
+      <text x="150" class="value" fill="#3fb950">+1,250,861</text>
     </g>
     <g transform="translate(25, 93)">
       <circle cx="6" cy="-5" r="4" fill="#f85149"/>
       <text x="20" class="label">Lines removed:</text>
-      <text x="150" class="value" fill="#f85149">−394,119</text>
+      <text x="150" class="value" fill="#f85149">−396,493</text>
     </g>
     <g transform="translate(25, 118)">
       <circle cx="6" cy="-5" r="4" fill="#bf91f3"/>
       <text x="20" class="label">Net lines:</text>
-      <text x="150" class="value" fill="#38bdae">750,272</text>
+      <text x="150" class="value" fill="#38bdae">854,368</text>
     </g>
     <g transform="translate(25, 143)">
       <circle cx="6" cy="-5" r="4" fill="#bf91f3"/>
       <text x="20" class="label">Commits:</text>
-      <text x="150" class="value" fill="#38bdae">207</text>
+      <text x="150" class="value" fill="#38bdae">240</text>
     </g>
     <g transform="translate(25, 168)">
       <circle cx="6" cy="-5" r="4" fill="#bf91f3"/>
       <text x="20" class="label">Repositories:</text>
-      <text x="150" class="value" fill="#38bdae">22</text>
+      <text x="150" class="value" fill="#38bdae">24</text>
     </g>
   <g transform="translate(395, 100)">
     <circle r="52" fill="none" stroke="#bf91f3" stroke-opacity=".8" stroke-width="5"/>
-    <text y="4" text-anchor="middle" class="big">1.1M</text>
+    <text y="4" text-anchor="middle" class="big">1.3M</text>
     <text y="24" text-anchor="middle" class="cap">lines written</text>
   </g>
-  <text x="470" y="182" text-anchor="end" class="foot">updated 25 Oct 2026</text>
+  <text x="470" y="182" text-anchor="end" class="foot">updated 26 Oct 2026</text>
 </svg>
